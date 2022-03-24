@@ -1,5 +1,7 @@
 # SmartBrain - v1
 Final project for ZTM course
+# Check the Backend source code
+Please click on [_Backend - FaceRecognation_](https://github.com/Aram-Eli/backend-v1)
 
 1. Clone this repo
 2. Run `npm install`
